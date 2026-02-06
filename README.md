@@ -1,73 +1,30 @@
-# Welcome to your Lovable project
+# Diagnostico
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## How can I edit this code?
+## Analice la salida respecto a su UI/UX. Que opina del diseno en general? Haga un analisi rapido de heuristicas.
 
-There are several ways of editing your application.
+Opino que el diseño generado por la idea estaria bien para ser un MVP, en cuanto a diseño hay bastantes cosas por mejorar en cuanto a organización pero es minimalista y no está sobrecargado.
+La sombra de paletas lo veo bastante adecuado ya que transmite calma y energia positiva ya que no abruma al usuario en cuanto a los colores al ser una aplicación de productividad.
 
-**Use Lovable**
+**Visibilidad del Estado del Sistema**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Lo cumple bastante bien ya que en todo momento el usuario sabe en donde se encuentra ubicado, sabe si una tarea se logró completar o no, el estado de las tareas se muestra muy bien.
 
-Changes made via Lovable will be committed automatically to this repo.
+**Control y libertad del usuario**
 
-**Use your preferred IDE**
+No se muestra una opcion para editar las tareas por lo que puede frustrar al usuario ya que, que pasa si el usuario se equivoca al escribir el nombre de una tarea? tendria que crear una nueva y eliminar la que ya creo.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Coincidencia entre el sistema y el mundo real**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Tiene iconos y el texto que existe en la app es bastante natural consistente al mundo real pero no existe la opcion de agregar fecha de inicio y fecha de fin, en la vida real cada tarea que debemos realizar tiene una fecha limite por lo que se podria mejorar esto para que haya una consistencia.
 
-Follow these steps:
+## Analice el codigo generado por la IA. Que errores encuentra? Puede identificar alguna mejora? Cuales? Justifique
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Considero que hay mucho codigo "muerto" por asi decirlo, hay muchos archivos que se han creado y no realmente se ocupan lo que aumenta el tamaño del proyecto.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**LINK DE LA CONVERSACION**
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+https://lovable.dev/projects/72757423-1f58-4169-a128-1594b797a220?magic_link=mc_37e0f738-9ea9-4ac6-bc2b-69a601b2c456 
