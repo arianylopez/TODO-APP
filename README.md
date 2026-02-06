@@ -1,9 +1,5 @@
 # Diagnostico
 
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
-
 ## Analice la salida respecto a su UI/UX. Que opina del diseno en general? Haga un analisi rapido de heuristicas.
 
 Opino que el diseño generado por la idea estaria bien para ser un MVP, en cuanto a diseño hay bastantes cosas por mejorar en cuanto a organización pero es minimalista y no está sobrecargado.
